@@ -1,103 +1,91 @@
-<p align="center">
-  <img src="./assets/card.png">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="/codelitdev/courselit/blob/main/docs/assets/card.png"><img src="/codelitdev/courselit/raw/main/docs/assets/card.png" style="max-width: 100%;"></a>
 </p>
-
-<h1 align="center">CourseLit</h1>
-
-<p align="center">
-    Sell online courses and digital downloads from your own website. 
-    <br />
-    <br />
-    An open source alternative to Teachable, Thinkific, Podia and the likes.
-</p>
-
-<p align="center">
+<h1 align="center" tabindex="-1" dir="auto"><a id="user-content-courselit" class="anchor" aria-hidden="true" tabindex="-1" href="#courselit"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">课程点燃</font></font></h1>
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    从您自己的网站销售在线课程和数字下载。 
+    </font></font><br>
+    <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    Teachable、Thinkific、Podia 等的开源替代品。
+</font></font></p>
+<p align="center" dir="auto">
   <b>
-    <a href="https://courselit.app">Website</a> |
-    <a href="https://docs.courselit.app">Documentation</a> | 
-    <a href="https://honey-oviraptor-4b7.notion.site/4a82d434ff2e485c8eb4b22f13252fef?v=9873e6e4812c420ab6a5cd81eca11356">Roadmap</a>
+    <a href="https://courselit.app" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|
+    </font></font><a href="https://docs.courselit.app" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">| 
+    </font></font><a href="https://honey-oviraptor-4b7.notion.site/4a82d434ff2e485c8eb4b22f13252fef?v=9873e6e4812c420ab6a5cd81eca11356" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">路线图</font></font></a>
   </b>
 </p>
-
-<p align="center">
-  <a href="https://discord.gg/GR4bQsN">
-    <img src="https://img.shields.io/badge/chat-discord-blue" alt="Chat">
+<p align="center" dir="auto">
+  <a href="https://discord.gg/GR4bQsN" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/0952fcf2e8a6a89979acf72e44f46b4dc68ec11cab738a9088d8b611bb3dc35c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d646973636f72642d626c7565" alt="聊天" data-canonical-src="https://img.shields.io/badge/chat-discord-blue" style="max-width: 100%;">
   </a>
   <a href="https://github.com/codelitdev/courselit">
-    <img src="https://badgen.net/github/tag/codelitdev/courselit" alt="Release">
+    <img src="https://camo.githubusercontent.com/3bba20f86d7f8ee6a097d13356e6929f20751dc905db071299cbaa32a5bf8437/68747470733a2f2f62616467656e2e6e65742f6769746875622f7461672f636f64656c69746465762f636f757273656c6974" alt="发布" data-canonical-src="https://badgen.net/github/tag/codelitdev/courselit" style="max-width: 100%;">
   </a>
   <a href="https://github.com/codelitdev/courselit/blob/deployment/LICENSE">
-    <img src="https://badgen.net/github/license/codelitdev/courselit" alt="License">
+    <img src="https://camo.githubusercontent.com/be1673b9e02afedc4c1a667927a808c0479b73f0cd1c70dccc8a5e07525d97c6/68747470733a2f2f62616467656e2e6e65742f6769746875622f6c6963656e73652f636f64656c69746465762f636f757273656c6974" alt="执照" data-canonical-src="https://badgen.net/github/license/codelitdev/courselit" style="max-width: 100%;">
   </a>
 </p>
+<h1 tabindex="-1" dir="auto"><a id="user-content-a-modern-lms-for-everyone" class="anchor" aria-hidden="true" tabindex="-1" href="#a-modern-lms-for-everyone"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">适合所有人的现代学习管理系统</font></font></h1>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CourseLit 是一款适合所有人的</font></font><a href="https://en.wikipedia.org/wiki/Batteries_Included" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">包含电池的</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学习管理系统（又名 LMS）。</font><font style="vertical-align: inherit;">它是 Teachable、Thinkific、Podia、Teachery、LearnDash 等的开源替代品。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">它预先配备了有效运行和管理在线教学业务所需的所有基本工具。</font><font style="vertical-align: inherit;">功能包括课程创作、学生管理、付款处理（通过 Stripe）、网站构建器、自定义销售页面和分析（目前非常有限）。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看这个实时示例，了解可以使用 CourseLit 构建什么。</font></font><a href="https://codelit.dev" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">点击这里</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-screenshots" class="anchor" aria-hidden="true" tabindex="-1" href="#screenshots"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">截图</font></font></h3>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1. 使用 CourseLit 构建真正的登陆页面</font></font></strong></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/codelitdev/courselit/blob/main/docs/assets/codelit.png"><img src="/codelitdev/courselit/raw/main/docs/assets/codelit.png" alt="登陆页面" style="max-width: 100%;"></a></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2. 管理仪表板</font></font></strong></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/codelitdev/courselit/blob/main/docs/assets/courselit-dashboard.png"><img src="/codelitdev/courselit/raw/main/docs/assets/courselit-dashboard.png" alt="courselit lms 截图" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-features" class="anchor" aria-hidden="true" tabindex="-1" href="#features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看我们的</font></font><a href="https://docs.courselit.app/en/introduction/#key-features" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以获取更新的功能列表。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-getting-started" class="anchor" aria-hidden="true" tabindex="-1" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">访问</font></font><a href="https://courselit.app" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">courselit.app</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以使用云托管版本。</font><font style="vertical-align: inherit;">注册免费帐户即可获得 14 天的试用期，不受任何限制地体验该平台。</font><font style="vertical-align: inherit;">无需信用卡。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要自行托管 CourseLit，请遵循我们的</font></font><a href="https://docs.courselit.app/en/self-hosting/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">官方指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fcodelitdev%2Fcourselit&amp;env=DB_CONNECTION_STRING,NEXTAUTH_SECRET,SUPER_ADMIN_EMAIL,EMAIL_USER,EMAIL_PASS,EMAIL_HOST,EMAIL_FROM&amp;envDescription=Configuration%20for%20your%20app&amp;project-name=courselit&amp;root-directory=apps%2Fweb&amp;build-command=cd+..%2F+%26%26+NODE_OPTIONS%3D--openssl-legacy-provider+yarn+build" rel="nofollow"><img src="https://camo.githubusercontent.com/0d115430c1db17132964386282927e5e313543c7d868fc06bc9a7c65d7ec974e/68747470733a2f2f76657263656c2e636f6d2f627574746f6e" alt="使用 Vercel 进行部署" data-canonical-src="https://vercel.com/button" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-development" class="anchor" aria-hidden="true" tabindex="-1" href="#development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发展</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该项目被组织为</font></font><a href="https://en.wikipedia.org/wiki/Monorepo" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">单一存储库</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">它使用</font></font><a href="https://yarnpkg.com/features/workspaces" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Yarn 工作区</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来管理 mono-repo。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要设置开发环境，首先将项目克隆到本地计算机上并</font></font><code>cd</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">复制到其目录中。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><code>.env</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">然后将文件夹内文件</font><font style="vertical-align: inherit;">中的值替换</font></font><code>apps/web</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为您的环境配置。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现在从项目的根目录运行以下命令。</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-c"><span class="pl-c">#</span> Install dependencies</span>
+yarn install
 
-# A modern LMS for everyone
+<span class="pl-c"><span class="pl-c">#</span> Build the packages</span>
+yarn build
 
-CourseLit is a [batteries included](https://en.wikipedia.org/wiki/Batteries_Included) learning management system (aka LMS) for everyone. It is an open source alternative to Teachable, Thinkific, Podia, Teachery, LearnDash and the likes.
-
-It comes pre-equipped with all the basic tools you need to efficiently run and administer your online teaching business. Features include course authoring, student management, payment processing (via Stripe), website builder, custom sales pages and analytics (very limited as of now).
-
-Check out this live example to see what you can build with CourseLit. [Click here](https://codelit.dev).
-
-### Screenshots
-
-**1. A real landing page build with CourseLit**
-
-![Landing page](./assets/codelit.png)
-
-**2. Admin dashboard**
-
-![courselit lms screenshot](./assets/courselit-dashboard.png)
-
-## Features
-
-Checkout our [documentation](https://docs.courselit.app/en/introduction/#key-features) for an updated list of features.
-
-## Getting started
-
-Visit [courselit.app](https://courselit.app) to use the cloud hosted version. Sign up for a free account to get a 14 days trial period to experience the platform without any restrictions. No credit card required.
-
-To self host CourseLit, follow our [official guide](https://docs.courselit.app/en/self-hosting/).
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fcodelitdev%2Fcourselit&env=DB_CONNECTION_STRING,NEXTAUTH_SECRET,SUPER_ADMIN_EMAIL,EMAIL_USER,EMAIL_PASS,EMAIL_HOST,EMAIL_FROM&envDescription=Configuration%20for%20your%20app&project-name=courselit&root-directory=apps%2Fweb&build-command=cd+..%2F+%26%26+NODE_OPTIONS%3D--openssl-legacy-provider+yarn+build)
-
-## Development
-
-The project is organised as a [mono-repo](https://en.wikipedia.org/wiki/Monorepo). It uses [Yarn workspaces](https://yarnpkg.com/features/workspaces) for managing the mono-repo.
-
-To set up the development environment, first clone the project on your local machine and `cd` to its diretory.
-
-Then replace the values in `.env` file located inside the `apps/web` folder with your enviroment's configuration.
-
-Now run the following commands from the root directory of the project.
-
-```sh
-# Install dependencies
+<span class="pl-c"><span class="pl-c">#</span> Start the app</span>
+yarn dev</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="# Install dependencies
 yarn install
 
 # Build the packages
 yarn build
 
 # Start the app
-yarn dev
-```
-
-That's it! Now you can dive into the code base.
-
-## Medialit
-
-CourseLit uses [MediaLit](https://medialit.cloud) as its backend for managing media assets. It is a paid service and you need to have an account on it to store your files in the cloud.
-
-If you do not want to use the cloud hosted version, you can roll your own instance. Add the following config to the `.env` file to use your own MediaLit instance.
-
-```sh
-MEDIALIT_SERVER=medialit_server_location
-```
-
-## Writing your own widget
-
-You can add additional functionality to your application via building your own widgets. Have a look at [this](widgets.md) document.
-
-## Environment variables
-
-Have a look at the [docker-compose.yml](../deployment/docker/docker-compose.yml) file to know what all environment variables are available for you to tweak.
+yarn dev" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">就是这样！</font><font style="vertical-align: inherit;">现在您可以深入了解代码库。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-medialit" class="anchor" aria-hidden="true" tabindex="-1" href="#medialit"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">媒体</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CourseLit 使用</font></font><a href="https://medialit.cloud" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MediaLit</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作为管理媒体资产的后端。</font><font style="vertical-align: inherit;">这是一项付费服务&ZeroWidthSpace;&ZeroWidthSpace;，您需要拥有一个帐户才能将文件存储在云中。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您不想使用云托管版本，您可以滚动自己的实例。</font><font style="vertical-align: inherit;">将以下配置添加到</font></font><code>.env</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件中以使用您自己的 MediaLit 实例。</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>MEDIALIT_SERVER=medialit_server_location</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="MEDIALIT_SERVER=medialit_server_location" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<h2 tabindex="-1" dir="auto"><a id="user-content-writing-your-own-widget" class="anchor" aria-hidden="true" tabindex="-1" href="#writing-your-own-widget"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编写您自己的小部件</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以通过构建自己的小部件向应用程序添加附加功能。</font><font style="vertical-align: inherit;">看看</font></font><a href="/codelitdev/courselit/blob/main/docs/widgets.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这个</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-environment-variables" class="anchor" aria-hidden="true" tabindex="-1" href="#environment-variables"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">环境变量</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看</font></font><a href="/codelitdev/courselit/blob/main/deployment/docker/docker-compose.yml"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">docker-compose.yml</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件以了解哪些环境变量可供您调整。</font></font></p>
+</article></div>
